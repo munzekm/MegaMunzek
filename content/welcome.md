@@ -12,7 +12,7 @@ tags:
   - getting-started
 ---
 
-Hello! Welcome to my mega's page, where you can learn more about me and my interests :)
+Hello! Welcome to my page, where you can learn more about me and my interests :)
 
 We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
