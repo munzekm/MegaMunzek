@@ -9,10 +9,10 @@ authors:
   - ghost
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
-  - A little bit about me:)
+  - getting-started
 ---
 
-Hello!
+Hello! Welcome to my page, :)
 
 This page will help you learn a little bit about myself and what my interests are!
 
@@ -20,12 +20,12 @@ We know that first impressions are important, so we've populated your new site w
 
 
 ### There are a few things that you should know about me:
-1. My name is Megan Munzek and I am a student at Allegheny College. I am studying
+My name is Megan Munzek and I am a Computer Science Student at Allegheny College.
 1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
 
-1. I am a student athlete on the swimming and diving team at allegheny college.
+I am a student athlete on the swimming and diving team at allegheny college.
 1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
-1. I am a technical assisant in the film and video production at Allegheny College.
+I am a technical assisant in the film and video production at Allegheny College.
 1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
 
 ### Quick Start
