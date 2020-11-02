@@ -27,6 +27,6 @@ Allegheny.
 
 ## Contact Me
 
-[Personal Email](megan.munzek14@gmail.com)
-[School Email](munzekm@allegheny.edu)
-[LinkedIn](https://www.linkedin.com/in/megan-munzek-6327271b5/)
+- [Personal Email]megan.munzek14@gmail.com
+- [School Email]munzekm@allegheny.edu
+- [LinkedIn]https://www.linkedin.com/in/megan-munzek-6327271b5/
