@@ -1,6 +1,6 @@
 ---
 title: Managing Ghost bugs
-image: /images/team.jpg
+image: /images/production.jpeg
 imageMeta:
   attribution:
   attributionLink:
