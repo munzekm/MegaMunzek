@@ -1,6 +1,6 @@
 ---
-title: Welcome to empress-blog
-image: /images/welcome.jpg
+title: Welcome
+image: /images/me.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -12,18 +12,19 @@ tags:
   - getting-started
 ---
 
-Hey! Welcome to empress-blog, it's great to have you :)
+Hello! Welcome to my page, where you can learn more about me and my interests :)
 
 We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
 
-### There are a few things that you should know up-front:
+### There are a few things that you should know about me:
 
-1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
+1. My name is Megan Munzek and I am a student at Allegheny college.
 
-1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
+1. My major is Computer Science and my minor is Communications arts.
 
-1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
+1. I am a technical assisant in the film and video production department here at
+Allegheny.
 
 ### Quick Start
 
