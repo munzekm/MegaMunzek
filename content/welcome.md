@@ -1,5 +1,5 @@
 ---
-title: Hello!
+title: Welcome!
 image: /images/me.png
 imageMeta:
   attribution:
