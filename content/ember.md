@@ -1,5 +1,5 @@
 ---
-title: Why Ember
+title: Projects in Computer Science
 image: /images/compsci.png
 imageMeta:
   attribution: by Robert Wagner
