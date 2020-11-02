@@ -1,5 +1,5 @@
 ---
-title: Managing Ghost users
+title: Managing Ghost bugs
 image: /images/team.jpg
 imageMeta:
   attribution:
