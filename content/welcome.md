@@ -1,6 +1,6 @@
 ---
 title: Welcome
-image: /images/me.jpg
+image: /images/me.png
 imageMeta:
   attribution:
   attributionLink:
