@@ -1,6 +1,6 @@
 ---
-title: Communication art Films
-image: /images/production.jpeg
+title: Organising your content with tags
+image: /images/tags.jpg
 imageMeta:
   attribution:
   attributionLink:

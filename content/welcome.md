@@ -6,19 +6,21 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - Megan
+  - ghost
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
-  - getting-started
+  - A little bit about me:)
 ---
 
 Hello!
 
 This page will help you learn a little bit about myself and what my interests are!
 
+We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+
+
 ### There are a few things that you should know about me:
 1. My name is Megan Munzek and I am a student at Allegheny College. I am studying
-Computer Science and Communications Arts.
 1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
 
 1. I am a student athlete on the swimming and diving team at allegheny college.
