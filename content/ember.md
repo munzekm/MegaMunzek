@@ -1,6 +1,6 @@
 ---
 title: Projects in Computer Science
-image: /images/compsci.png
+image: /images/compscipic.jpg
 imageMeta:
   attribution: by Robert Wagner
   attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
