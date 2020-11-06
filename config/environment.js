@@ -24,9 +24,9 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      title: 'Megan Munzek',
+      description: 'My Personal Page',
+      coverImage: '/images/water.png',
 
       navigation: [{
         label: 'Home',
