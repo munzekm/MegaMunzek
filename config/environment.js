@@ -26,13 +26,13 @@ module.exports = function(environment) {
     blog: {
       title: 'Megan Munzek',
       description: 'My Personal Page',
-      coverImage: '/images/bachground.jpg',
+      coverImage: '/images/background.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Built by Megan Munzek',
         route: 'page',
         id: 'chris-manson'
       }]

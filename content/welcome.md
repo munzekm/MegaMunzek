@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Hello!
 image: /images/me.png
 imageMeta:
   attribution:
@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - ghost
-date: November 1st 2020
+date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
 ---
