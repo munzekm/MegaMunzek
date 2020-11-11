@@ -1,6 +1,6 @@
 ---
 title: Computer Science
-image: /images/compscipic.jpg
+image: /images/compsciheader.jpeg
 imageMeta:
   attribution: by Robert Wagner
   attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
@@ -15,7 +15,7 @@ Here are some of my projects in the field of computer science that I have worked
 on.
 
 [Cogitate Tool](https://github.com/GatorCogitate/cogitate_tool) This is a open
-source tool where you can manage the level of contributions within a group. Cogitate
+source tool where you can manage the level of constructions within a group. Cogitate
 tool will generate a score for the user based on:
 Number of lines added or deleted
 Pull Requests
