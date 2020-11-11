@@ -12,10 +12,8 @@ tags:
   - getting-started
 ---
 
-empress-blog has a single, powerful organisational taxonomy, called tags.
-
-It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.
-
+This is where I have my resume. Please take a look at all my experiences, skills,
+and relevant courses. 
 
 ## Basic tagging
 

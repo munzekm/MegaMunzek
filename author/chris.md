@@ -1,5 +1,5 @@
 ---
-name: Chris Manson
+name: Megan Munzek
 id: chris
 image: /images/chris.jpg
 cover:
