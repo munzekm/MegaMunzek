@@ -11,8 +11,15 @@ date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
   - getting-started
 ---
-Here are some of my projects in the field of computer science that I have worked
-on.
+
+I chose the major, computer science because it was so different than anything I
+have done before. Coming into college I had no idea what field I wanted to go
+into. I took many different class like psychology, philosophy, economics,
+environmental science, and I never felt a connection with any of those classes.
+Computer science is so interesting and there are so many different routes you
+can take.
+
+## Here are my projects that I have worked on in Computer Science.
 
 [Cogitate Tool](https://github.com/GatorCogitate/cogitate_tool) This is a open
 source tool where you can manage the level of constructions within a group. Cogitate
@@ -28,7 +35,7 @@ Here is a store called MegaKath. I made this with a friend that was in computer 
 We decided to create a store. Our store sold pencils, pens, Apples, Bananas, Blue Shirt,
 and a Red Shirt.
 
-Relevant Courses in Computer Science that I have taken:
+## Relevant Courses in Computer Science that I have taken:
 - Computational Expression: Cmpsci100 (Java)
 - Data Abstraction: Cmpsci101 (Java)
 - Discrete Structures: Cmpsci102 (Python)
@@ -36,3 +43,10 @@ Relevant Courses in Computer Science that I have taken:
 - Computer Organization: Cmpsci200 (C)
 - Web Development: Cmpsci302 (HTML/CSS)
 - Software Innovation I: Cmpsci 480
+
+Classes I will be taking in the future:
+- Algorithm Analysis: Cmpsci202
+- Programming Languages: Cmpsci201
+- Software Innovation II: Cmpsci481
+- Junior Seminar
+- Senior Seminar

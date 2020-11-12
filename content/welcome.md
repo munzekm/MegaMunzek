@@ -13,6 +13,7 @@ tags:
 ---
 
 Hello! Welcome to my page, where you can learn more about me and my interests :)
+
 Please explore my page, look at my resume, classes I've taken and my projects I
 have completed.
 
