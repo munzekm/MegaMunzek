@@ -15,7 +15,7 @@ My story:
 I was born in Pittsburgh Pennsylvania. That is where I grew up and I continue
 to live their with my family. When I was little I was always ready to do something,
 whether it was playing outside, going for a walk, or hanging with my sister.
-<<<<<<< HEAD
+
 I got involved in swimming when I was 8 years old. I love doing sports because
 I am such an active person. During my swimming years I also got involved
 in gymnastics, dance, and volleyball. I continued my volleyball career until
