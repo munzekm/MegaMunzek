@@ -13,7 +13,9 @@ tags:
 ---
 
 This is where I have my resume. Please take a look at all my experiences, skills,
-and relevant courses. 
+and relevant courses.
+
+[Resume](/images/Meganresume.jpeg)
 
 ## Basic tagging
 
