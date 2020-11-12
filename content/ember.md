@@ -14,7 +14,7 @@ tags:
 
 I chose the major, computer science because it was so different than anything I
 have done before. Coming into college I had no idea what field I wanted to go
-into. I took many different class like psychology, philosophy, economics,
+into. I took many different classes like psychology, philosophy, economics,
 environmental science, and I never felt a connection with any of those classes.
 Computer science is so interesting and there are so many different routes you
 can take.
@@ -44,7 +44,7 @@ and a Red Shirt.
 - Web Development: Cmpsci302 (HTML/CSS)
 - Software Innovation I: Cmpsci 480
 
-Classes I will be taking in the future:
+## Classes I will be taking in the future:
 - Algorithm Analysis: Cmpsci202
 - Programming Languages: Cmpsci201
 - Software Innovation II: Cmpsci481
