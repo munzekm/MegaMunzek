@@ -1,6 +1,10 @@
 ---
 title: Films in Video Production
+<<<<<<< HEAD
 image: /images/production.jpeg
+=======
+image: /images/team.jpg
+>>>>>>> master
 imageMeta:
   attribution:
   attributionLink:
@@ -13,11 +17,21 @@ tags:
   - getting-started
 ---
 
+<<<<<<< HEAD
 Here is where you can view my films that I have created within my video production
 and film classes. The classes that I have taken are Video Production 1,
 Video Production 2, and Video Activism.
 
 - Video Production 1:
+=======
+
+Here is where you can view my films that I have created within my video
+production and film classes. The classes that I have taken are Video
+Production 1, Video Production 2, and Video Activism.
+
+
+
+>>>>>>> master
 
 
 - Video Production 2:

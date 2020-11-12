@@ -26,7 +26,11 @@ module.exports = function(environment) {
     blog: {
       title: 'Megan Munzek',
       description: 'My Personal Page',
+<<<<<<< HEAD
       coverImage: '/images/background.jpg',
+=======
+      coverImage: '/images/blog-cover.jpg',
+>>>>>>> master
 
       navigation: [{
         label: 'Home',
