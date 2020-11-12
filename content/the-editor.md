@@ -1,5 +1,5 @@
 ---
-title: Editing Posts with empress-blog
+title: Resume
 image: /images/writing.jpg
 imageMeta:
   attribution:
