@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'empress-blog-casper',
+    modulePrefix: 'Megan Munzek',
     environment,
     rootURL: '/',
     locationType: 'auto',

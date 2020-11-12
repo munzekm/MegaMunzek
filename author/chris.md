@@ -4,7 +4,7 @@ id: chris
 image: /images/headshot.jpg
 cover:
 website:
-twitter: real_ate
+twitter: meganmunz14
 facebook:
 location: Pittsburgh, Pennsylvania
 ---
