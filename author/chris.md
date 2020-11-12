@@ -1,12 +1,11 @@
 ---
-name: Chris Manson
+name: Megan Munzek
 id: chris
-image: /images/chris.jpg
+image: /images/headshot.jpg
 cover:
 website:
-twitter: real_ate
+Twitter:
 facebook:
-location: Dublin, Ireland
+location: Pittsburgh, Pennsylvania
 ---
-Chris Manson is the creator of empress-blog and a member of the Ember Core
-Learning team. Feel free to delete this user when creating your own content.
+Megan Munzek is the editor of this website.

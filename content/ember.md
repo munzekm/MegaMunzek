@@ -1,6 +1,6 @@
 ---
-title: Why Ember
-image: /images/ember.jpg
+title: Computer Science
+image: /images/compsciheader.jpeg
 imageMeta:
   attribution: by Robert Wagner
   attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
@@ -12,6 +12,41 @@ tags:
   - getting-started
 ---
 
-[Ember is a powerful Javascript Framework that is designed to maximise developer productivity](https://emberjs.com/). Ember also has one of the best plugin experiences in the industry, which means you can get a whole lot of functionality with just a simple `npm install`. If you want to check out the power of [Ember's addon ecosystem](https://emberobserver.com/) you can visit [Ember Observer](https://emberobserver.com/) which is made by [Code All Day](http://www.codeallday.com/).
+I chose the major, computer science because it was so different than anything I
+have done before. Coming into college I had no idea what field I wanted to go
+into. I took many different classes like psychology, philosophy, economics,
+environmental science, and I never felt a connection with any of those classes.
+Computer science is so interesting and there are so many different routes you
+can take.
 
-The design of empress-blog is a direct result of the work done to upgrade the [Ember Guides into an Ember application](https://github.com/ember-learn/guides-app). This system is specifically designed to make it easy for you to get started and if you have followed the [instructions on the README](https://github.com/empress/empress-blog) you will know exactly how easy it is. If you are familiar with Ember you are probably used to the Zero Config experience of setting up new applications and adding addons 🎉
+## Here are my projects that I have worked on in Computer Science.
+
+[Cogitate Tool](https://github.com/GatorCogitate/cogitate_tool) This is a open
+source tool where you can manage the level of constructions within a group. Cogitate
+tool will generate a score for the user based on:
+Number of lines added or deleted
+Pull Requests
+Issue Trackers
+Teamwork Performance
+
+[MagaKath](https://github.com/Allegheny-Computer-Science-100-S2019/project-cs100s2019-megakath)
+Here is a store called MegaKath. I made this with a friend that was in computer science
+100 with me. This was a group project where you could make anything you want.
+We decided to create a store. Our store sold pencils, pens, Apples, Bananas, Blue Shirt,
+and a Red Shirt.
+
+## Relevant Courses in Computer Science that I have taken:
+- Computational Expression: Cmpsci100 (Java)
+- Data Abstraction: Cmpsci101 (Java)
+- Discrete Structures: Cmpsci102 (Python)
+- Software Engineering: Cmpsci203 (Python)
+- Computer Organization: Cmpsci200 (C)
+- Web Development: Cmpsci302 (HTML/CSS)
+- Software Innovation I: Cmpsci 480
+
+## Classes I will be taking in the future:
+- Algorithm Analysis: Cmpsci202
+- Programming Languages: Cmpsci201
+- Software Innovation II: Cmpsci481
+- Junior Seminar
+- Senior Seminar

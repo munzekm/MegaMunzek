@@ -1,6 +1,6 @@
 ---
 title: Films in Video Production
-image: /images/team.jpg
+image: /images/production.jpeg
 imageMeta:
   attribution:
   attributionLink:
@@ -14,12 +14,13 @@ tags:
 ---
 
 
-Here is where you can view my films that I have created within my video
-production and film classes. The classes that I have taken are Video
-Production 1, Video Production 2, and Video Activism.
+Here is where you can view my films that I have created within my video production
+and film classes. The classes that I have taken are:
+
+- Video Production 1:
 
 
+- Video Production 2:
 
 
-
-It's a good idea to fill out the metadata on authors, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.
+- Video Activism:
