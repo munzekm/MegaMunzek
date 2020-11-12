@@ -1,6 +1,6 @@
 ---
 title: Computer Science
-image: /images/compsciheader.jpeg
+image: /images/compscipic.jpg
 imageMeta:
   attribution: by Robert Wagner
   attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
@@ -34,6 +34,10 @@ Here is a store called MegaKath. I made this with a friend that was in computer 
 100 with me. This was a group project where you could make anything you want.
 We decided to create a store. Our store sold pencils, pens, Apples, Bananas, Blue Shirt,
 and a Red Shirt.
+
+[MakingitwMega](https://github.com/munzekm/makingitwmega)
+Making it with mega is my web development project. This website is a cooking blog
+where it shares recipes and many delicious snacks.
 
 ## Relevant Courses in Computer Science that I have taken:
 - Computational Expression: Cmpsci100 (Java)
