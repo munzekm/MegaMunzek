@@ -1,10 +1,6 @@
 ---
 title: Films in Video Production
-<<<<<<< HEAD
 image: /images/production.jpeg
-=======
-image: /images/team.jpg
->>>>>>> master
 imageMeta:
   attribution:
   attributionLink:

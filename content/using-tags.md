@@ -12,13 +12,11 @@ tags:
   - getting-started
 ---
 
-<<<<<<< HEAD
 This is where I have my resume. Please take a look at all my experiences, skills,
 and relevant courses.
 
 [Click here to view my resume](/images/Meganresume.jpeg)
-=======
->>>>>>> master
+
 
 ## Basic tagging
 
