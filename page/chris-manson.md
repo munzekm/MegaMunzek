@@ -24,3 +24,8 @@ I am a volunteer at grounds for change a coffee shop on campus and I am
 a Film and Video Technical Assistant. I have also have currently accepted a
 internship at PNC for the summer of 2021.
 In my free time I like to hang out with my friends on campus or go on bike rides.
+
+![Roommates](/images/group.jpg)
+
+
+![Bike Ride](/images/bike.jpg)
