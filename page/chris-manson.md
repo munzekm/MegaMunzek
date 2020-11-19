@@ -25,6 +25,10 @@ a Film and Video Technical Assistant. I have also have currently accepted a
 internship at PNC for the summer of 2021.
 In my free time I like to hang out with my friends on campus or go on bike rides.
 
+[Allegheny Swimming and Diving](https://alleghenygators.com/sports/womens-swimming-and-diving/roster)
+Explore the Roster of the Girls Swimming and Diving Team.
+
+
 ![Roommates](/images/group.jpg)
 
 
