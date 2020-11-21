@@ -1,12 +1,12 @@
 ---
 title: Resume
-image: /images/tags.jpg
+image: /images/resumepic.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - Megan Munzek
+  - Megan
 date: Tue Jun 12 2018 17:57:10 GMT+0100 (IST)
 tags:
   - getting-started
