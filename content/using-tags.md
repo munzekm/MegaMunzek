@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - Megan
-date: Tue Jun 12 2018 17:57:10 GMT+0100 (IST)
+date: 
 tags:
   - getting-started
 ---
