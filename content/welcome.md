@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - Megan
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
@@ -31,7 +31,7 @@ Allegheny.
 
 - Personal Email: megan.munzek14@gmail.com
 - School Email: munzekm@allegheny.edu
-- [LinkedIn]https://www.linkedin.com/in/megan-munzek-6327271b5/
+- [LinkedIn](https://www.linkedin.com/in/megan-munzek-6327271b5/)
 
 
 

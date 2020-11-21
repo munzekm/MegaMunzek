@@ -23,13 +23,14 @@ Arts.
 I am a volunteer at grounds for change a coffee shop on campus and I am
 a Film and Video Technical Assistant. I have also have currently accepted a
 internship at PNC for the summer of 2021.
-In my free time I like to hang out with my friends on campus or go on bike rides.
+In my free time I like to hang out with my friends, go on bike rides, go hiking
+or explore the outdoors.
 
-[Allegheny Swimming and Diving](https://alleghenygators.com/sports/womens-swimming-and-diving/roster)
 Explore the Roster of the Girls Swimming and Diving Team.
+[Allegheny Swimming and Diving](https://alleghenygators.com/sports/womens-swimming-and-diving/roster)
 
-
+Me and my Roommates
 ![Roommates](/images/group.jpg)
 
-
+Bike ride to Woodcock
 ![Bike Ride](/images/bike.jpg)
