@@ -7,9 +7,9 @@ imageMeta:
 featured: true
 authors:
   - Megan
-date: 
+date:
 tags:
-  - getting-started
+  - new
 ---
 
 Hello! Welcome to my page, where you can learn more about me and my interests :)
