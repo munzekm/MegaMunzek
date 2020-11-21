@@ -1,6 +1,6 @@
 ---
 name: Megan
-id: chris
+id: Megan
 image: /images/headshot.jpg
 cover:
 website:
