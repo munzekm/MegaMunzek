@@ -1,5 +1,5 @@
 ---
-name: Megan Munzek
+name: Megan
 id: chris
 image: /images/headshot.jpg
 cover:

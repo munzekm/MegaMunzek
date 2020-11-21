@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - Megan
-date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
+date: Tue Nov 18 2020 17:50:55 GMT+0100 (IST)
 tags:
 ---
 
@@ -28,7 +28,7 @@ or explore the outdoors.
 Explore the Roster of
 [Allegheny Swimming and Diving](https://alleghenygators.com/sports/womens-swimming-and-diving/roster)
 
-[Swim](/images/swim.jpg)
+![Swim](/images/swim.jpg)
 
 Me and my Roommates
 ![Roommates](/images/group.jpg)
